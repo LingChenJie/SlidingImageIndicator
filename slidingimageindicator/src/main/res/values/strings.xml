@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" value="SlidingImageIndicator" />
+    <string name="slider" value="slider" />
+</resources>
