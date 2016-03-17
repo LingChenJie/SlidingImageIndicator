@@ -101,3 +101,4 @@ android:configChanges="orientation|keyboardHidden|screenSize
 uvv_fitXY UniversalVideoView的属性,布尔值,true时设置视频缩放时在X,Y方向上铺满View设置的宽度和高度,这样可能使视频变形.false时则缩放时保持视频的长宽比例,与SDK中的VideoView类似.
 uvv_scalable UniversalMediaController属性,布尔值,是否显示控制条右下方的缩放按钮,如果不想全屏播放时,可以设置为false不显示.
 
+# SlidingImageIndicator
